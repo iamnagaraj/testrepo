@@ -1,0 +1,2 @@
+sed ' 2 s/unix/naga/2 ' /tmp/tinku  -i ---- to change the 2 nd word the 2nd line
+sed '1,8 s/Laxmi/naga/' tinku -i----- to change the word with naga in the file
